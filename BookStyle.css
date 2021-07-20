@@ -1,0 +1,11 @@
+body {
+    background-color: crimson;
+    background-size: cover;
+    height: calc(100vh - 80px);
+}
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-size: cover;
+    height: calc(100vh - 80px);
+    background-color: crimson;
+}
